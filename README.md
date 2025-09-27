@@ -14,4 +14,7 @@ You will need: An andorid device running android 6 or higher, And it must suppor
 | < and > keys             |
 | Home page with shortcuts |
 | URL bar and page titles  |
-| All modern languages     |
+| All modern web languages |
+| Google Search            | 
+
+## Enjoy!`
