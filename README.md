@@ -5,7 +5,10 @@ A simple mobile web browser built with MIT app inventor.
 Right now, the only way to download this app is using the .apk file in the releases section of this github repo. I might put it on the play store but it is unlikely.
 
 ### Support
-You will need: An andorid device running android 6 or higher, And it must support .apk files.
+| Left-aligned | Center-aligned | Right-aligned |
+| ------------ | -------------- | ------------- |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
 
 ### Features
 | Features                 |
